@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.12d434fe.css",
-    "main.js": "/react-gh-pages/static/js/main.534a940d.js",
-    "static/js/453.a23d0db5.chunk.js": "/react-gh-pages/static/js/453.a23d0db5.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.12d434fe.css.map": "/react-gh-pages/static/css/main.12d434fe.css.map",
-    "main.534a940d.js.map": "/react-gh-pages/static/js/main.534a940d.js.map",
-    "453.a23d0db5.chunk.js.map": "/react-gh-pages/static/js/453.a23d0db5.chunk.js.map"
+    "main.css": "/skeleton-placeholder/static/css/main.12d434fe.css",
+    "main.js": "/skeleton-placeholder/static/js/main.7df1b82f.js",
+    "static/js/453.a23d0db5.chunk.js": "/skeleton-placeholder/static/js/453.a23d0db5.chunk.js",
+    "index.html": "/skeleton-placeholder/index.html",
+    "main.12d434fe.css.map": "/skeleton-placeholder/static/css/main.12d434fe.css.map",
+    "main.7df1b82f.js.map": "/skeleton-placeholder/static/js/main.7df1b82f.js.map",
+    "453.a23d0db5.chunk.js.map": "/skeleton-placeholder/static/js/453.a23d0db5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.12d434fe.css",
-    "static/js/main.534a940d.js"
+    "static/js/main.7df1b82f.js"
   ]
 }
